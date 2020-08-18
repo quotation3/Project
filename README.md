@@ -1,4 +1,4 @@
-# 프로젝트 정리 Repositary
+# 프로젝트 정리 Repository
 
 ### 프로젝트 및 공모전 자료
 
