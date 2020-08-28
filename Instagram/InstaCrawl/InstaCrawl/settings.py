@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = 'InstaCrawl.spiders'
 #USER_AGENT = 'InstaCrawl (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
