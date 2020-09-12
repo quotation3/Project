@@ -12,6 +12,7 @@ class TooManyRequestsRetryMiddleware(RetryMiddleware):
         super(TooManyRequestsRetryMiddleware, self).__init__(crawler.settings)
         self.crawler = crawler
     @classmethod
+    
     def from_crawler(cls, crawler):
         return cls(crawler)
     def process_response(self, request, response, spider):

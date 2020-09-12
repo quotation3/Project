@@ -18,7 +18,7 @@
                 "-o",
                 "amazon.json",
                 "-a",
-                "file=10대.csv"
+                "file=C:\\Users\\user\\Desktop\\InstaCrawl 2\\InstaCrawl\\username\\20대\\대학생공스타그램_username.json"
             ],
             "console": "integratedTerminal",
             "env": {},
