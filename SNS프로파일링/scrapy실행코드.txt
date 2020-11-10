@@ -1,0 +1,5 @@
+scrapy crawl profile -o 계란한판.json -a file="‪‪C:\Users\Inyong Kim\Desktop\InstaCrawl\username\30대\계란한판_username.json"
+
+nohup scrapy crawl profile -o 초1.json -a file="‪C:\Users\Inyong Kim\Desktop\InstaCrawl 2\InstaCrawl\user_id\초1_username.json"
+
+scrapy crawl username -o 신병휴가.json -a file='C:\Users\Inyong Kim\Desktop\신병휴가.csv'
