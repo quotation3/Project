@@ -6,7 +6,7 @@ github : https://github.com/Dev-hottae/PINC
 
 ## 분석 절차
 
-- 논문요약 - High Quality Topic Extraction from Business News Explains Abnormal Financial Market Volatility
+- 논문요약 - High Quality Topic Extraction from Business News Explains Abnormal Financial Market Volatility (Ryohei Hisano, Didier Sornette, Takayuki Mizuno, Takaaki Ohnishi, Tsutomu Watanabe, 2013)
 
 - 데이터 수집
 
