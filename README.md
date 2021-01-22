@@ -11,8 +11,9 @@
 
 ### 프로젝트 항목
 
-1. 한국은행 논문구현 (Deciphering Monetary Policy Board - Minutes through Text Mining Approach: The Case of Korea)
+1. 텍스트마이닝으로 기준금리분석
    - 금융통화위원회 의사록 텍스트마이닝을 통한 기준금리 분석
+   - 참고논문 : Deciphering Monetary Policy Board - Minutes through Text Mining Approach: The Case of Korea
 
    - 파이썬 eKoNLPy 사용
    - Scrapy 사용하여 데이터 수집, 나이브 베이즈 모델로 n-gram 어조 분석
